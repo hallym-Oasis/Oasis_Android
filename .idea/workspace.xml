@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c301a8aa-c03e-4043-a53b-153bc9ad7849" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/myapplication" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="c301a8aa-c03e-4043-a53b-153bc9ad7849" name="Default Changelist" comment="Upload Oasis app">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -20,6 +16,12 @@
     </projectState>
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1l7lOP7M1uTjlzMzpELLAVXyjZ9" />
@@ -110,6 +112,36 @@
       <option name="presentableId" value="Default" />
       <updated>1606955977399</updated>
     </task>
+    <task id="LOCAL-00001" summary="Upload Oasis app">
+      <created>1606958731693</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1606958731693</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Upload Oasis app" />
+    <option name="LAST_COMMIT_MESSAGE" value="Upload Oasis app" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="654" y="274" key="#Notifications" timestamp="1606959702059">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="654" y="274" key="#Notifications/0.0.1536.824@0.0.1536.824" timestamp="1606959702059" />
+    <state x="313" y="0" key="CommitChangelistDialog2" timestamp="1606959259843">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="313" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1606959259843" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1606959641010">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1606959641010" />
+    <state x="569" y="312" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1606959746559">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="569" y="312" key="git4idea.remote.GitConfigureRemotesDialog/0.0.1536.824@0.0.1536.824" timestamp="1606959746559" />
   </component>
 </project>
